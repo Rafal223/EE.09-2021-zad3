@@ -11,6 +11,12 @@
     width: 70%;
     float: left;
 }
+.img
+{
+    width: 262px;
+    height: 150px;
+    background-position: center;
+}
 .baner2
 {
     background-color: #29434E;
@@ -33,18 +39,19 @@
 }
 .blok
 {
-    margin: 5px;
+    padding: 5px;
     height: 280px;
     width: 226px;
+    float: left;
 }
 h3
 {
     background-color: #546E7A;
     color: white;
-    padding: 0px;
+    margin: 0px;
 }
 h4
 {
     text-align: center;
-    padding: 0px;
+    margin: 0px;
 }
