@@ -1,0 +1,50 @@
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.baner1
+{
+    background-color: #29434E;
+    color: white;
+    text-align: center;
+    height: 70px;
+    width: 70%;
+    float: left;
+}
+.baner2
+{
+    background-color: #29434E;
+    color: white;
+    width: 30%;
+    height: 70px;
+    float: left;
+}
+.lista1
+{
+    background-color: #B0BEC5;
+    height: 320px;
+    width: 100%;
+    overflow: scroll;
+}
+.stopka
+{
+    background-color: #29434E;
+    color: white;
+}
+.blok
+{
+    margin: 5px;
+    height: 280px;
+    width: 226px;
+}
+h3
+{
+    background-color: #546E7A;
+    color: white;
+    padding: 0px;
+}
+h4
+{
+    text-align: center;
+    padding: 0px;
+}
